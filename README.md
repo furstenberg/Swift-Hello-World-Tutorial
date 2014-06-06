@@ -1,3 +1,3 @@
 A Hello World example in Swift.
 
-Follow along at [YouTube](https://www.youtube.com/watch?v=w_0QPVG2pQk)
+A modified example from [SwiftDev's YouTube Channel](https://www.youtube.com/watch?v=w_0QPVG2pQk)
