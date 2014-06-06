@@ -19,7 +19,12 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
-    
+
+    override func didReceiveMemoryWarning() {
+        super.didReceiveMemoryWarning()
+        // Release any cached data, images, etc that aren't in use.
+    }
+
     @IBAction func action(sender : AnyObject) {
         toggleLabelVisibility()
         toggleButtonText()
